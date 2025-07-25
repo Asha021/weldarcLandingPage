@@ -11,7 +11,7 @@ const WeldarcMac = () => {
     <section id="Difference"
       className="py-5"
       style={{
-        backgroundImage: "url('public/about-us-banner.jpg')",
+        backgroundImage: "url('/about-us-banner.jpg')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundAttachment: "fixed",
@@ -67,7 +67,7 @@ const WeldarcMac = () => {
       </div>
 
       <img
-        src="public/8.webp"
+        src="/8.webp"
         alt="Weldarc Machine"
         className="rounded-top img-fluid"
         style={{
@@ -105,7 +105,7 @@ const WeldarcMac = () => {
       }}
     >
       <img
-        src="public/5.webp"
+        src="/5.webp"
         alt="Other Machine"
         className="rounded-top mt-3 img-fluid"
         style={{
