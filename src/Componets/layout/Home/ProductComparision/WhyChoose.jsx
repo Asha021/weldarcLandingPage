@@ -7,7 +7,7 @@ const features = [
     title: "Research & Technology",
     description:
       "We deliver innovative solutions through original thinking, driving future-ready machinery and systems.",
-    image: "public/6.webp",
+    image: "/6.webp",
     icon: "fa-solid fa-lightbulb",
     bg: "#F9F9F9",
   },
@@ -15,7 +15,7 @@ const features = [
     title: "Customized Solutions",
     description:
       "Tailored engineering built around your industry’s requirements with scalable, adaptable systems.",
-    image: "public/5.webp",
+    image: "/5.webp",
     icon: "fa-solid fa-puzzle-piece",
     bg: "#FFF7F3",
   },
@@ -23,7 +23,7 @@ const features = [
     title: "Service & Support",
     description:
       "We stand with you — from consultation to commissioning, training, and post-sales service.",
-    image: "public/8.webp",
+    image: "/8.webp",
     icon: "fa-solid fa-headset",
     bg: "#F4FBFF",
   },
@@ -31,7 +31,7 @@ const features = [
     title: "Precision Machinery",
     description:
       "Engineered with high tolerance and efficiency, our systems guarantee accurate and reliable operations.",
-    image: "public/6.webp",
+    image: "/6.webp",
     icon: "fa-solid fa-screwdriver-wrench",
     bg: "#F8F8F8",
   },
