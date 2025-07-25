@@ -274,12 +274,20 @@ const ProductSec = () => {
                   className="card-img-top overflow-hidden"
                   style={{ maxHeight: "200px" }}
                 >
-                  <img
+                   <Link
+                    to={`/product/${product.slug}`}
+                    onClick={(e) => e.stopPropagation()}
+                  
+                  >
+                       <img
                     src={product.image}
                     alt={product.title}
                     className="img-fluid w-100"
                     style={{ objectFit: "cover", height: "200px" }}
                   />
+                  
+                  </Link>
+               
                 </div>
                 <div className="card-body d-flex border-top flex-column justify-content-between">
                   <div>
