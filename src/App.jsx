@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Task from "./Componets/Task";
 import { Route,Routes } from "react-router-dom";
 import Contact from "./Componets/layout/ContactForm/Contact";
-import HeroSec from "./Componets/layout/Home/HeroSec";
+// import HeroSec from "./Componets/layout/Header/HeroSec";  
 import Header from "./Componets/layout/Header";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
