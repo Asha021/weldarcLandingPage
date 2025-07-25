@@ -210,7 +210,7 @@ const Graph = () => {
 </h2>
 
       <img
-        src="public/table.png"
+        src="/table.png"
         alt="Cutting Ability Table"
         style={{
           maxWidth: '100%',
